@@ -1,9 +1,11 @@
 ## PC Mart Sales - Sistema de Ventas de Computadoras
 **Vista previa de la consola 1**
 Figura 1: Ejemplo de salida del sistema
+![Ejemplo de salida en consola](consola1.png)  
 
 Vista previa de la consola 2
 Figura 2: Ensamblado de computadora
+![Ejemplo de salida en consola](consola2.png)  
 
 🖥️ Descripción del Proyecto
 PC Mart Sales es un sistema Java para gestión de componentes y ensamblaje de computadoras, diseñado como proyecto educativo para practicar:
